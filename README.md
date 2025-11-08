@@ -1,4 +1,4 @@
-# 👨‍💻 Abdul Rehman | Full Stack Developer
+# 👨‍💻 Abdul Rehman | JS Developer
 
 🚀 **Junior Developer** | React js 
 ⚡ **Learning every day**  
